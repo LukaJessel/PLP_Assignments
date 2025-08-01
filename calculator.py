@@ -18,9 +18,8 @@ elif operation == "*":
     print (f"{num1} * {num2} = {result}")
 
 elif operation == "/":
+    if num2 == 0:
+       print (f"Error: Division by Zero isn't allowed!")
+    else:
        result = num1 / num2
        print (f"{num1} / {num2} = {result}")
-
-elif operation == "/":
-        result = num1 / 0
-        print (f"{num1} / {num2} = {result}")
