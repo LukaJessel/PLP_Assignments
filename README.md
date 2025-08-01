@@ -1,7 +1,3 @@
-Absolutely! Here's a more **engaging**, **colorful**, and **friendly** version of your README in paragraph form—perfect for drawing readers in and keeping things fun while still informative:
-
----
-
 🎉 **Welcome to the Basic Calculator Program!** 🧮
 
 Need to crunch a few numbers without opening a spreadsheet or launching a full-blown calculator app? You're in the right place! This **tiny but mighty** command-line calculator lets you add, subtract, multiply, and divide—right from your terminal. It's fast, it's clean, and it's written in plain ol’ Python!
